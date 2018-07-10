@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+
+    background-image: url("background1.jpg");
+    background-size: cover;
+    color:white
+
+}
+
+div {
+    border: 1px solid white;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    margin-right: 100px;
+    margin-left: 60px;
+    background-color: lightblue;
+    padding: 30px;
+    float: left;
+}
+
+.container {
+    margin: 5px 5px;
+    padding: 5px 5px;
+}
+
+img {
+    float: right;
+    padding: 5px 5px;
+}
+
+
+/* .text-blocks {
+    float: left;
+    padding: 30px;
+    padding: 50px 10px
+} */
+
+body {
+    font-style:
+}
